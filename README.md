@@ -4,5 +4,5 @@
 * Please also cite [Feng et al. (2022)](#1), which is a paper providing detailed description of the data.
 
 ### Reference:
-<a id = "1"> [1] </a >Haolin Feng, Yiwu Jia, Siyi Zhou, Hongyi Chen, Teng Huang (2022). A Dataset Usable for Outpatient Appointment Scheduling. Working paper. 
+<a id = "1"> [1] </a >Haolin Feng, Yiwu Jia, Siyi Zhou, Hongyi Chen, Teng Huang (2022). A Dataset of Service Time and Related Patient Characteristics from an Outpatient Clinic. Working paper. 
   
