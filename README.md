@@ -8,6 +8,6 @@
 
 [![DOI](https://zenodo.org/badge/578618362.svg)](https://zenodo.org/badge/latestdoi/578618362)
 ### Reference:
-<a id = "1"> [1] </a >Feng, Haolin, et al. "A Dataset of Service Time and Related Patient Characteristics from an Outpatient Clinic." *Data* 8.3 (2023): 47. https://doi.org/10.3390/data8030047 
+<a id = "1"> [1] </a >Feng, Haolin, Yiwu Jia, Siyi Zhou, Hongyi Chen, and Teng Huang. "A Dataset of Service Time and Related Patient Characteristics from an Outpatient Clinic." Data 8, no. 3 (2023): 47. https://doi.org/10.3390/data8030047 
 
-<a id = "2"> [2] </a >Feng, Haolin, et al. "An adaptive decision support system for outpatient appointment scheduling with heterogeneous service times." *Submitted* (2024).
+<a id = "2"> [2] </a >Feng, Haolin, Yiwu Jia, Teng Huang, Siyi Zhou, and Hongyi Chen. "An adaptive decision support system for outpatient appointment scheduling with heterogeneous service times." *Submitted* (2024).
